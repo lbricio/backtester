@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+
+# exportações do usuário (ex.: resultados da varredura)
+/*.csv
+.DS_Store
